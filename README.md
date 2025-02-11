@@ -1,7 +1,7 @@
 # My Leetcode Solution
 
-:poop: All 5/3415
-:green_circle: Easy 5/849
+:poop: All 6/3415
+:green_circle: Easy 6/849
 :yellow_circle: Medium 0/1779
 :red_circle: Hard 0/787
 
